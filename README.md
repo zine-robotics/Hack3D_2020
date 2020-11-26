@@ -1,4 +1,4 @@
-# CSAW_Hack3D_2020
+# CSAW Hack3D 2020
 
 > The Hack3D competition serves to raise awareness and generate discussion in engineering and research communities about security in the additive manufacturing field. In Hack3D’s 2019 Qualifying Round, participants were challenged to reconstruct a corrupted .gcode file, employing skills in graphics programming, file manipulation, and reverse-engineering. In the Final Round, teams competed in hacking an anti-counterfeiting system designed to protect CAD models.
 
