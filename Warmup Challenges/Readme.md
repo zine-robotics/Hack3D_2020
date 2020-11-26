@@ -5,6 +5,8 @@ Before the start of the challenge, participants were given a warmup challenge to
 ### Warmup Challenge 1
 
  The challenge is simple. You just need to fill in the center row of squares with the correct color. A STEP file of the challenge is provided and can be imported into a CAD program (example: SolidWorks, Inventor, Onshape, Fusion360).
+
+[Solution](Solution.md) can be found here.
  
 ### Warmup Challenge 2
 
