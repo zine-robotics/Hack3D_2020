@@ -8,4 +8,6 @@ Morse code found:
 
 `.. ... .-.-.- --. -.. -..-. --.. ..... .... --.. ..-. ...`
 
-When converted to text it represented a link which led to a [Google Drive folder](is.gd/z5hzfs)
+is.gd/z5hzfs
+
+When converted to text it represented a link which led to a [Google Drive folder](https://is.gd/z5hzfs)
