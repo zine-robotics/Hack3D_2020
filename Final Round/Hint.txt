@@ -1,0 +1,1 @@
+The Code on the underside of the brick was a hint to the line number that had the Maxium Stress written when opened in a text editor such as notepad. On opening the wrl on notepad and going to the line number 138564, we find the maximum stress commented in binary format.
