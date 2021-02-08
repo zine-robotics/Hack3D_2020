@@ -10,7 +10,7 @@ img = Image.open(filename)
 exif_dict = piexif.load(img.info['exif'])
 
 user_comment = piexif.helper.UserComment.load(exif_dict["Exif"][piexif.ExifIFD.UserComment])
+#print(user_comment)
 
-print(user_comment)
 with open(extracted_img,'wb') as imageFile: imageFile.write(base64.b64decode(user_comment.encode('utf-8')))
 
