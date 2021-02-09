@@ -8,4 +8,11 @@ Morse code found:
 
 `.. ... .-.-.- --. -.. -..-. --.. ..... .... --.. ..-. ...`
 
-When converted to text it represented a link which led to a [Google Drive folder](is.gd/z5hzfs)
+is.gd/z5hzfs
+
+When converted to text it represented a link which led to a [Google Drive folder](https://is.gd/z5hzfs)
+
+Which led to a decieving [image](HACK3D_Challenge.jpg) of Edison, with a quote by Nikola Tesla.
+Upon inspection, random exif data was noted.
+
+Decoding this with a short [python code](detect-measure.py) revealed the [Drawing](extract1.jpg) of the bulb with original dimensions.
